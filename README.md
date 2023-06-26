@@ -5,6 +5,8 @@ Welcome to the Complex Visualization of Pokémon Data on my GitHub repository! A
 ## Project Overview
 Pokémon, a beloved franchise that has captured the hearts of millions, provides a treasure trove of fascinating data. In this project, I have harnessed my data science skills to analyze and visually represent various aspects of Pokémon data from the first six generations.
 
+If you encounter any trouble viewing the Dash app in the Jupyter notebook, fear not! Simply click [here](https://nbviewer.org/github/Dave-314/Pokemon-Data-Visualizations/blob/main/Pokemon_visualization_notebook.ipynb), and the app should be readily available for your enjoyment.
+
 ## Dataset
 The dataset used in this project comprises comprehensive information on Pokémon species, their characteristics, moves, abilities, types, and more. With this rich dataset at hand, we can uncover insights into the Pokémon universe and explore the relationships and patterns hidden within.
 
